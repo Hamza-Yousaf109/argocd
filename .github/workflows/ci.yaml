@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: nginx_hamza/nginx-app:latest
+          tags: hamza109/nginx-app:latest
